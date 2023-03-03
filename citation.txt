@@ -1,0 +1,8 @@
+@article{xia2020cost,
+  title={Cost-effective App Data Distribution in Edge Computing},
+  author={Xia, Xiaoyu and Chen, Feifei and He, Qiang and Grundy, John C and Abdelrazek, Mohamed and Jin, Hai},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={32},
+  number={1},
+  pages={31--44},
+  year={2020}}
